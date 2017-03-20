@@ -1,0 +1,43 @@
+---
+title: mkiang.github.io
+author: Mathew Kiang
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  rmarkdown::html_document:
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+This is just a convenience function in the form of a landing page for students to quickly find links. This page is usually only updated when I update class notes. 
+
+For more about me, check out [my about page](https://mathewkiang.com/aboutme/) or go to [mathewkiang.com](https://mathewkiang.com). 
+
+## Course materials
+
+- **Data to Decisions: Intro to Causal Inference for Data Science**
+    - Short workshop for ITAM Master's in Data Science students (March 2017)
+    - [Slides](http://mkiang.github.io/intro-ci-shortcourse/)
+    - [Source code](https://github.com/mkiang/intro-ci-shortcourse)
+    - Created with [Zhe Zhang](http://aboutzhe.com) and [Monica Alexander](http://monicaalexander.com/)
+- **EPI 501 - Dynamics of Infectious Disease**
+    - At HSPH with Professor Buckee (Spring 2017)
+    - [Slides](https://mkiang.github.io/epi501_review/)
+    - [Source code](https://github.com/mkiang/epi501_review)
+
+## Other
+- **Using Python for Research**
+    - [HarvardX](https://www.edx.org/course/using-python-research-harvardx-ph526x) link
+    - I still (sometimes) frequent the forum to assist
+    - We are taking suggestions for revisions on the next round of this class
+- **Interactive Disease Dynamics**
+    - Just a quick and dirty [shiny app](https://mkiang.shinyapps.io/DiseaseDynamics/) designed to help students understand how small changes can have large effects on dynamics
+    - [Source code](https://github.com/mkiang/DiseaseDynamics)
+- **ACS Exporer**
+    - [Shiny app](https://mkiang.shinyapps.io/PrEligibles/) for exploring demographics of the 2013 ACS quickly
+    - [Source code](https://github.com/mkiang/PrEligibles)
+
