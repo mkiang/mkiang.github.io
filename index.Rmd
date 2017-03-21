@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is just a convenience function in the form of a landing page for students to quickly find links. This page is usually only updated when I update class notes. 
 
-For more about me, check out [my about page](https://mathewkiang.com/aboutme/) or go to [mathewkiang.com](https://mathewkiang.com). 
+For more about me, check out [my about](https://mathewkiang.com/aboutme/) page, [my CV](https://mathewkiang.com/assets/mkiangcv.pdf), or go to [mathewkiang.com](https://mathewkiang.com). 
 
 ## Course materials
 
