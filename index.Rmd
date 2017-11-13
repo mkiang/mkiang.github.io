@@ -30,10 +30,12 @@ For more about me, check out [my about](https://mathewkiang.com/aboutme/) page, 
     - [Source code](https://github.com/mkiang/epi501_review)
 
 ## Other
+- **`narcan`**: A package for working with MCOD data
+    - With [Monica Alexander](http://monicaalexander.com), we've released the internal code we use for a few papers. Unpolished, but more coming soon.
 - **Using Python for Research**
     - [HarvardX](https://www.edx.org/course/using-python-research-harvardx-ph526x) link
     - I still (sometimes) frequent the forum to assist
-    - We are taking suggestions for revisions on the next round of this class
+    - Materials for Version 2 are done! New version will be live in January. 
 - **Interactive Disease Dynamics**
     - Just a quick and dirty [shiny app](https://mkiang.shinyapps.io/DiseaseDynamics/) designed to help students understand how small changes can have large effects on dynamics
     - [Source code](https://github.com/mkiang/DiseaseDynamics)
@@ -41,8 +43,7 @@ For more about me, check out [my about](https://mathewkiang.com/aboutme/) page, 
     - [Shiny app](https://mkiang.shinyapps.io/PrEligibles/) for exploring demographics of the 2013 ACS quickly
     - [Source code](https://github.com/mkiang/PrEligibles)
 
-
-
+<!--html_preserve-->
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
@@ -62,3 +63,4 @@ For more about me, check out [my about](https://mathewkiang.com/aboutme/) page, 
 <!-- Piwik Image Tracker-->
 <img src="https://mathewkiang.com/piwik/piwik.php?idsite=2&rec=1&action_name=mkiang.github.io" style="border:0" alt="" />
 <!-- End Piwik -->
+<!--/html_preserve-->
