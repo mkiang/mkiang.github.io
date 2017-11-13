@@ -30,8 +30,9 @@ For more about me, check out [my about](https://mathewkiang.com/aboutme/) page, 
     - [Source code](https://github.com/mkiang/epi501_review)
 
 ## Other
-- **`narcan`**: A package for working with MCOD data
-    - With [Monica Alexander](http://monicaalexander.com), we've released the internal code we use for a few papers. Unpolished, but more coming soon.
+- **`narcan`**
+    - With [Monica Alexander](http://monicaalexander.com), we've [released the internal code we use for a few papers](https://mkiang.github.io/narcan/). 
+    - Unpolished, but more examples, documentation, and helper functions coming soon.
 - **Using Python for Research**
     - [HarvardX](https://www.edx.org/course/using-python-research-harvardx-ph526x) link
     - I still (sometimes) frequent the forum to assist
