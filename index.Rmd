@@ -19,24 +19,29 @@ For more about me, check out [my about](https://mathewkiang.com/aboutme/) page, 
 
 ## Course materials
 
+- **EPI 501 - Dynamics of Infectious Diseasem (Spring 2018)**
+    - At HSPH with Professor Buckee 
+    - [Slides](https://mkiang.github.io/epi501_review/)
+    - [Source code](https://github.com/mkiang/epi501_review/)
 - **Data to Decisions: Intro to Causal Inference for Data Science**
     - Short workshop for ITAM Master's in Data Science students (March 2017)
     - [Slides](http://mkiang.github.io/intro-ci-shortcourse/)
     - [Source code](https://github.com/mkiang/intro-ci-shortcourse)
     - Created with [Zhe Zhang](http://aboutzhe.com) and [Monica Alexander](http://monicaalexander.com/)
-- **EPI 501 - Dynamics of Infectious Disease**
-    - At HSPH with Professor Buckee (Spring 2017)
-    - [Slides](https://mkiang.github.io/epi501_review/)
-    - [Source code](https://github.com/mkiang/epi501_review)
+- **EPI 501 (OLD) - Dynamics of Infectious Diseasem (Spring 2017)**
+    - At HSPH with Professor Buckee 
+    - [Slides](https://mkiang.github.io/epi501_review/spring_2017/index.html)
+    - [Source code](https://github.com/mkiang/epi501_review/tree/master/spring_2017)
 
 ## Other
+- **Beiwe Research Platform**
+    - Part of my work with [the Onnela Lab](https://www.hsph.harvard.edu/onnela-lab/) is creating code and tools for other researchers to use our digital phenotyping platform. This work is on the [lab Github accuont](https://github.com/onnela-lab)
 - **`narcan`**
     - With [Monica Alexander](http://monicaalexander.com), we've [released the internal code we use for a few papers](https://mkiang.github.io/narcan/). 
     - Unpolished, but more examples, documentation, and helper functions coming soon.
 - **Using Python for Research**
     - [HarvardX](https://www.edx.org/course/using-python-research-harvardx-ph526x) link
-    - I still (sometimes) frequent the forum to assist
-    - Materials for Version 2 are done! New version will be live in January. 
+    - I was a course developer for versions 1 and 2 and still (sometimes) frequent the forum to assist
 - **Interactive Disease Dynamics**
     - Just a quick and dirty [shiny app](https://mkiang.shinyapps.io/DiseaseDynamics/) designed to help students understand how small changes can have large effects on dynamics
     - [Source code](https://github.com/mkiang/DiseaseDynamics)
